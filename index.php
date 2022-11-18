@@ -14,6 +14,7 @@
 </header>
 <main>
     <article>Article</article>
+    <aside>Aside</aside>
 </main>
 </body>
 </html>
