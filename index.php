@@ -9,6 +9,11 @@
     <title>Document</title>
 </head>
 <body>
-<header></header>
+<header>
+    Header
+</header>
+<main>
+    
+</main>
 </body>
 </html>
