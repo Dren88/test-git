@@ -13,7 +13,7 @@
     Header master
 </header>
 <main>
-    <article>Article</article>
+    <article>Article master</article>
     <aside>Aside</aside>
     <?php
     CModule::IncludeModule('tasks');
