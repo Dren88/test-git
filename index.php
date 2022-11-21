@@ -13,7 +13,7 @@
     Header
 </header>
 <main>
-    <article>Article</article>
+    <article>Article main</article>
     <aside>Aside</aside>
 </main>
 </body>
